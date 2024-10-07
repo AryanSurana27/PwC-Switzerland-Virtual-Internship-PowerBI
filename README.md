@@ -1,5 +1,5 @@
 # PwC-Switzerland-Virtual-Internship-PowerBI
-**Task 2:- Call Center Trends Dashboard.
+**Task 2**:- [Call Centre Trends](https://github.com/AryanSurana27/PwC-Switzerland-Virtual-Internship-PowerBI/blob/main/Task%202%20Call%20Centre%20Trends.pdf)
 
 #Overview:-
 
@@ -20,7 +20,7 @@ This dashboard is designed to provide transparency and insights into call center
 * Understand Call Traffic: See when call volumes peak and how your team responds, helping optimize staffing levels.
 * Improve Customer Satisfaction: Use the customer satisfaction score to identify areas for improvement and set new goals.
 
-**Task 3:- Customer Retention Dashboard.
+**Task 3**:-[Customer Retention Dashboard](.
 
 #Overview:-
 
