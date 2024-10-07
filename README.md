@@ -53,7 +53,7 @@ Dashboard 2: Customer Risk Analysis
 
 #The two dashboards provide a comprehensive view of customer churn and risk factors. By analyzing various metrics and visualizations, stakeholders can gain valuable insights into customer behavior and take proactive measures to reduce churn and improve customer satisfaction.
 
-**Task 4:- Diversity and Inclusion Dashboard.
+**Task 4**:- [Diversity and Inclusion Dashboard](https://github.com/AryanSurana27/PwC-Switzerland-Virtual-Internship-PowerBI/blob/main/Task%204%20-%20Diversity%20and%20Inclusion.pdf)
 
 #Overview:-
 This Dashboard involves creating visuals for key performance indicators (KPIs) related to Hiring, Performance rating, Promotion, Department and Age group. 
